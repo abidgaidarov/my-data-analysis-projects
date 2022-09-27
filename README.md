@@ -1,1 +1,0 @@
-Projects for educational purposes
