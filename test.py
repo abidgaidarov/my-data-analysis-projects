@@ -1,1 +1,1 @@
-python
+import this
