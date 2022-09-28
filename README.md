@@ -12,4 +12,4 @@
 | 7 | A/B-тест <br /> A/B test                                                                                                          | 01.2021         | *pandas, numpy, matplotlib, seaborn, math, scipy* |
 
 
-[Текст ссылки](https://github.com/Yandex-Practicum/practicum_data_example_repo "Заголовок ссылки")
+[Текст ссылки](https://github.com/Yandex-Practicum/practicum_data_example_repo)
