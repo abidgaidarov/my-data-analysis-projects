@@ -1,7 +1,7 @@
 # Projects:
 
 
-| # | Name                                                                                                                         | Completion date |
+| # | Name                                                                                                                         | Date of completion |
 | - | ---------------------------------------------------------------------------------------------------------------------------- | --------------- |
 | 1 | Исследование надёжности заёмщиков <br /> Borrower reliability study                                                               | 08.2020         |
 | 2 | Исследование объявлений о продаже квартир <br /> Research of advertisements for the sale of apartments                            | 09.2020         |
