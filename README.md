@@ -10,3 +10,6 @@
 | 5 | Определение закономерностей, определяющих успешность игры <br /> Determination of patterns that determine the success of the game | 11.2020         | *pandas, numpy, matplotlib, seaborn, math, scipy* |
 | 6 | Аналитика в "Яндекс.Афише" <br /> Analytics in "Yandex.Afisha"                                                                    | 12.2020         | *pandas, numpy, matplotlib, seaborn, math, scipy* |
 | 7 | A/B-тест <br /> A/B test                                                                                                          | 01.2021         | *pandas, numpy, matplotlib, seaborn, math, scipy* |
+
+
+[Текст ссылки](https://github.com/Yandex-Practicum/practicum_data_example_repo "Заголовок ссылки")
