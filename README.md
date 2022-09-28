@@ -10,7 +10,7 @@
 | 5 | [Определение закономерностей, определяющих успешность игры <br /> Determination of patterns that determine the success of the game](https://github.com/abidgaidarov/Data-analysis-projects/tree/main/2020.11%20Определение%20закономерностей%2C%20определяющих%20успешность%20игры) | 11.2020         | *pandas, numpy, matplotlib, seaborn, math, scipy* |
 | 6 | [Аналитика в "Яндекс.Афише" <br /> Analytics in "Yandex.Afisha"](https://github.com/abidgaidarov/Data-analysis-projects/tree/main/2020.12%20Аналитика%20в%20Яндекс.Афише)                                                                    | 12.2020         | *pandas, numpy, matplotlib, seaborn, math, scipy* |
 | 7 | [A/B-тест <br /> A/B test](https://github.com/abidgaidarov/Data-analysis-projects/tree/main/2021.01%20A:B-тест)                                                                                                          | 01.2021         | *pandas, numpy, matplotlib, seaborn, math, scipy* |
-| 8 | [A/B-тест <br /> A/B test](https://github.com/abidgaidarov/Data-analysis-projects/tree/main/2021.01%20A:B-тест)                                                                                                          | 01.2021         | *pandas, numpy, matplotlib, seaborn, math, scipy* |
+| 8 | [Exploring the Bitcoin Cryptocurrency Market](https://github.com/abidgaidarov/Data-analysis-projects/tree/main/2021.12%20Exploring%20the%20Bitcoin%20Cryptocurrency%20Market)                                                                                                          | 12.2021         | *pandas, matplotlib* |
 
 
 
